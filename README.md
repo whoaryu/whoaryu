@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">I'm <strong>Aryan Shah</strong></h1>
-<h3 align="center">I'm a Web3 enthusiast and curious App Developer!</h3>
+<h3 align="center">I'm a Web3 enthusiast and a curious App Developer!</h3>
 
 
 # 💫 About Me:
@@ -33,10 +33,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=whoaryu&icon=1&color=0)](https://visitcount.itsvg.in)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
