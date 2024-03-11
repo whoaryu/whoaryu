@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm <strong>Sarthak Bhan</strong></h1>
-<h3 align="center">I'm a passionate Web and AI/ML Developer from India.</h3>
+<h1 align="center">Hey<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm <strong>Aryan Shah</strong></h1>
+<h3 align="center">I'm a Web3 enthusiast and curious App Developer!</h3>
 
 
 # 💫 About Me:
