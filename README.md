@@ -2,7 +2,7 @@
 <br>Hey there! I'm a tech geek and App Developer (Flutter)<br>I am fascinated by Artificial Intelligence and GenAI.<br>Looking forward to contribute as much as possible on this platform :)<br>
 
 
-## 🌐 Socials:
+## ⚡️ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-shah-3553a6249) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@whoaryu2004/) 
 
 # 💻 Tech Stack:
