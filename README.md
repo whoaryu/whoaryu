@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 <br>✨ Hey there! I'm a tech geek and a Flutter App Developer <br>
-<br>🌱 I’m currently learning Web3 and Machine Learning<br>
+<br>🌱 I’m currently learning Web3, Blockchain and Machine Learning<br>
 <br>🎯 I am fascinated by Augmented Reality, Virtual Reality and GenAI.<br>
 <br>🔥 Looking forward to contribute as much as possible on this platform :)<br>
 
