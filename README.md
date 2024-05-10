@@ -104,12 +104,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whoaryu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br><br>
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=whoaryu&theme=radical&repo=athena)](https://github.com/whoaryu/athena)
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=whoaryu&theme=radical&repo=cryptozombies)](https://github.com/whoaryu/cryptozombies)
-[![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=whoaryu&theme=radical&repo=sem4)](https://github.com/whoaryu/sem4)
-
-
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
 <br>
 
