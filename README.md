@@ -32,11 +32,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoaryu&color=blue" alt="GitHub Profile Views" />
-</p>
-
 ---
 
 ## 💻 Tech Stacks
