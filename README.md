@@ -23,11 +23,7 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 hrs 24 mins   ███████████░░░░░   41.3 %
-TypeScript         7 hrs 52 mins   ███████░░░░░░░░   28.5 %
-C++                4 hrs 16 mins   ████░░░░░░░░░░░   15.4 %
-Python             2 hrs 11 mins   ██░░░░░░░░░░░░░    7.9 %
-Markdown           1 hr 49 mins    ██░░░░░░░░░░░░░    6.9 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
