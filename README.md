@@ -23,7 +23,11 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 hrs 8 mins          ███████████████████▒░░░░░   77.14 %
+HTML         46 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+JSON         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
