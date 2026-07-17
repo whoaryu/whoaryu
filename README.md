@@ -33,13 +33,13 @@ No activity tracked
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,dart,go" />
+<img src="https://skillicons.dev/icons?i=dart,cpp,python,js,c,ts" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,androidstudio" />
 </p>
 
 ## Backend
@@ -51,13 +51,13 @@ No activity tracked
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,prisma" />
 </p>
 
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,terraform,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,aws,terraform,linux,githubactions,arduino" />
 </p>
 
 
