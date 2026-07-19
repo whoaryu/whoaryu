@@ -18,7 +18,7 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 
 </div>
 
-## 📊 Live Coding Activity (past 7 days window)
+## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
