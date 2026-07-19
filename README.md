@@ -21,14 +21,38 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity (past 7 days window)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
-```txt
-JavaScript   6 hrs 11 mins         ████████████████████▒░░░░   80.99 %
-HTML         1 hr 13 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-JSON         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```text
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+🌆 Daytime                553 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌃 Evening                349 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌙 Night                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Friday                   405 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Sunday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               6 hrs 11 mins       ████████████████████░░░░░   80.99 % 
+HTML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+
 
 <!--END_SECTION:waka-->
 ---
