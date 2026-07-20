@@ -21,26 +21,26 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                556 commits         ███████████░░░░░░░░░░░░░░   44.77 % 
-🌃 Evening                351 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-🌙 Night                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌆 Daytime                556 commits         ███████████░░░░░░░░░░░░░░   44.73 % 
+🌃 Evening                352 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+🌙 Night                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 Thursday                 124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Friday                   405 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Friday                   405 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   130 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 11 mins       ████████████████████░░░░░   80.99 % 
-HTML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               7 hrs 44 mins       █████████████████████░░░░   84.10 % 
+HTML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
