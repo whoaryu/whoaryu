@@ -21,7 +21,7 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2017%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -48,11 +48,11 @@ Sunday                   130 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 44 mins       █████████████████████░░░░   84.10 % 
-HTML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               8 hrs 2 mins        █████████████████████░░░░   83.10 % 
+HTML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 
