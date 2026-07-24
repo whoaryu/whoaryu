@@ -21,8 +21,6 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2043%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
