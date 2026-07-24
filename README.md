@@ -21,6 +21,40 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2043%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+🌆 Daytime                558 commits         ███████████░░░░░░░░░░░░░░   44.53 % 
+🌃 Evening                357 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+🌙 Night                  234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Friday                   407 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               11 hrs 4 mins       ████████████████████░░░░░   79.95 % 
+HTML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
+
 
 <!--END_SECTION:waka-->
 ---
