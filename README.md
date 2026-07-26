@@ -21,26 +21,26 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2023%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.51 % 
-🌃 Evening                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-🌙 Night                  234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.40 % 
+🌃 Evening                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+🌙 Night                  237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Friday                   407 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   407 commits         ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 ```
 
 
@@ -48,11 +48,11 @@ Sunday                   130 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 51 mins       ████████████████████░░░░░   80.22 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript               6 hrs 21 mins       ████████████████████░░░░░   78.28 % 
+Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
