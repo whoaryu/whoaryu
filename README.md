@@ -21,26 +21,28 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.40 % 
-🌃 Evening                359 commits         ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-🌙 Night                  237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.29 % 
+🌃 Evening                360 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+🌙 Night                  239 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   407 commits         ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Friday                   407 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
+Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 
@@ -48,11 +50,31 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 21 mins       ████████████████████░░░░░   78.28 % 
-Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JavaScript               4 hrs 48 mins       ██████████████████░░░░░░░   71.29 % 
+Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 mins (2.91%)
+
+✍️ 0 lines written by AI, 1,983 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 19 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
