@@ -21,6 +21,62 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2054%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.37 % 
+🌃 Evening                361 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌙 Night                  239 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Tuesday                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   406 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Saturday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               4 hrs 33 mins       ██████████████████░░░░░░░   73.19 % 
+Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 mins (4.53%)
+
+✍️ 0 lines written by AI, 1,800 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 ---
