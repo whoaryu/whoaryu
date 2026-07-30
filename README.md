@@ -28,21 +28,21 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   44.37 % 
-🌃 Evening                361 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌙 Night                  239 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+🌆 Daytime                560 commits         ███████████░░░░░░░░░░░░░░   44.30 % 
+🌃 Evening                364 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌙 Night                  239 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Tuesday                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Friday                   406 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Saturday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Tuesday                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Friday                   406 commits         ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Saturday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 
@@ -50,19 +50,19 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 33 mins       ██████████████████░░░░░░░   73.19 % 
-Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JavaScript               3 hrs 10 mins       ██████████████████░░░░░░░   70.32 % 
+Text                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (4.53%)
+⏱ AI Coding Time: 16 mins (6.25%)
 
-✍️ 0 lines written by AI, 1,800 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,597 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
