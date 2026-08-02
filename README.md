@@ -21,9 +21,9 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -50,36 +50,36 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
-TypeScript               1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Text                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TypeScript               2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+JavaScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (35.53%)
+⏱ AI Coding Time: 3 hrs 14 mins (49.13%)
 
-✍️ 240 lines written by AI, 859 lines written by hand (21.84% AI-written)
+✍️ 244 lines written by AI, 508 lines written by hand (32.45% AI-written)
 
 🔤 46,737 Input Tokens, 6,907 Output Tokens
 
 💵 $0.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 27 AI Prompts
+🧠 8 AI Sessions, 40 AI Prompts
 
-GPT                      154 lines           ████████████████░░░░░░░░░   62.35 % 
-Gemini                   93 lines            █████████░░░░░░░░░░░░░░░░   37.65 % 
+Gemini                   172 lines           █████████████░░░░░░░░░░░░   52.76 % 
+GPT                      154 lines           ████████████░░░░░░░░░░░░░   47.24 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.84% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 32.45% of written lines came from AI
 📝 Concise Prompter — average 250 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 83.01% of changed lines were hand-edited
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 67.47% of changed lines were hand-edited
 ```
 
 
