@@ -28,21 +28,21 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-🌆 Daytime                562 commits         ███████████░░░░░░░░░░░░░░   44.11 % 
-🌃 Evening                369 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-🌙 Night                  241 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+🌆 Daytime                562 commits         ███████████░░░░░░░░░░░░░░   43.84 % 
+🌃 Evening                375 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Friday                   411 commits         ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Tuesday                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Wednesday                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Friday                   411 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 
 
@@ -50,36 +50,36 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.97 % 
-JavaScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
+JavaScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Text                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 14 mins (49.13%)
+⏱ AI Coding Time: 1 hr 51 mins (35.25%)
 
-✍️ 244 lines written by AI, 508 lines written by hand (32.45% AI-written)
+✍️ 224 lines written by AI, 508 lines written by hand (30.6% AI-written)
 
 🔤 46,737 Input Tokens, 6,907 Output Tokens
 
 💵 $0.24 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
-Gemini                   172 lines           █████████████░░░░░░░░░░░░   52.76 % 
-GPT                      154 lines           ████████████░░░░░░░░░░░░░   47.24 % 
+GPT                      154 lines           █████████████░░░░░░░░░░░░   50.49 % 
+Gemini                   151 lines           ████████████░░░░░░░░░░░░░   49.51 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.45% of written lines came from AI
-📝 Concise Prompter — average 250 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 67.47% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 30.6% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 68.91% of changed lines were hand-edited
 ```
 
 
