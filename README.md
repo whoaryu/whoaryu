@@ -21,9 +21,9 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
