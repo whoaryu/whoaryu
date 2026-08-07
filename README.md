@@ -21,6 +21,67 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 ## 📊 Live Coding Activity 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2050%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+🌆 Daytime                562 commits         ███████████░░░░░░░░░░░░░░   43.74 % 
+🌃 Evening                378 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Wednesday                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Friday                   411 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 47 mins        ███████████░░░░░░░░░░░░░░   45.72 % 
+Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 15 mins (57.63%)
+
+✍️ 700 lines written by AI, 182 lines written by hand (79.37% AI-written)
+
+🔤 46,737 Input Tokens, 6,907 Output Tokens
+
+💵 $0.24 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 35 AI Prompts
+
+Gemini                   654 lines           ████████████████████░░░░░   80.94 % 
+GPT                      154 lines           █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 79.37% of written lines came from AI
+📝 Concise Prompter — average 279 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 28.75% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 ---
