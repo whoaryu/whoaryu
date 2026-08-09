@@ -50,35 +50,34 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         █████████████░░░░░░░░░░░░   50.18 % 
-Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               34 mins             ███████████████████░░░░░░   75.14 % 
+CSS                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 36 mins (75.91%)
+⏱ AI Coding Time: 27 mins (60.88%)
 
-✍️ 552 lines written by AI, 9 lines written by hand (98.4% AI-written)
+✍️ 548 lines written by AI, 9 lines written by hand (98.38% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.08 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 29 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-Gemini                   654 lines           █████████████████████████   100.00 % 
+Gemini                   575 lines           █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.4% of written lines came from AI
-📝 Concise Prompter — average 232 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.53% of changed lines were hand-edited
+🤖 AI-Driven — 98.38% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.87% of changed lines were hand-edited
 ```
 
 
