@@ -50,33 +50,32 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               35 mins             █████████████░░░░░░░░░░░░   51.91 % 
-Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-CSS                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Prisma                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               29 mins             ██████████████████░░░░░░░   72.15 % 
+CSS                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (73.71%)
+⏱ AI Coding Time: 25 mins (61.78%)
 
-✍️ 561 lines written by AI, 9 lines written by hand (98.42% AI-written)
+✍️ 548 lines written by AI, 9 lines written by hand (98.38% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Gemini                   594 lines           █████████████████████████   100.00 % 
+Gemini                   575 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.42% of written lines came from AI
-📝 Concise Prompter — average 311 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.78% of changed lines were hand-edited
+🤖 AI-Driven — 98.38% of written lines came from AI
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 2.87% of changed lines were hand-edited
 ```
 
 
