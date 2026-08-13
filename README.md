@@ -50,32 +50,13 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 mins             ██████████████████░░░░░░░   72.15 % 
-CSS                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (61.78%)
-
-✍️ 548 lines written by AI, 9 lines written by hand (98.38% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-Gemini                   575 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.87% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
