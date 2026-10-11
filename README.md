@@ -50,7 +50,7 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
