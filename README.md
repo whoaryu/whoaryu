@@ -28,21 +28,21 @@ Currently exploring **LLMs, RAG, Cloud, WebRTC and scalable backend systems.**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-🌆 Daytime                576 commits         ███████████░░░░░░░░░░░░░░   44.27 % 
-🌃 Evening                378 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+🌞 Morning                104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+🌆 Daytime                576 commits         ███████████░░░░░░░░░░░░░░   44.21 % 
+🌃 Evening                378 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌙 Night                  245 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Wednesday                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Friday                   415 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
-Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Monday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Wednesday                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Friday                   417 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 
